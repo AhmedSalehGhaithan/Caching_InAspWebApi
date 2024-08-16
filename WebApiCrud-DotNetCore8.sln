@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34818.151
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCrud-DotNetCore8", "WebApiCrud-DotNetCore8\WebApiCrud-DotNetCore8.csproj", "{8FC51258-01E3-4A39-ACDE-59748723B494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC51258-01E3-4A39-ACDE-59748723B494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC51258-01E3-4A39-ACDE-59748723B494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC51258-01E3-4A39-ACDE-59748723B494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC51258-01E3-4A39-ACDE-59748723B494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C13ACEF-EA92-4000-9099-56D95A7CF290}
+	EndGlobalSection
+EndGlobal
